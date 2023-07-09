@@ -1,4 +1,7 @@
-[![](https://media.giphy.com/media/qjgm2rlJ6wep88aitp/giphy.gif)]
+<p align="center"><img alt="My GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=christian-munoz-rdz&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-munoz-rdz&layout=compact&theme=nord"></p>
+
+<img align="right" width=135 src="./res/yo.png">
+
 
 ### Languages
 
@@ -20,5 +23,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-<p align="center"><img alt="My GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=christian-munoz-rdz&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-munoz-rdz&layout=compact&theme=nord"></p>
