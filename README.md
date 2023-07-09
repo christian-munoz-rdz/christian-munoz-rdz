@@ -1,4 +1,4 @@
-![ME]()
+![ME](https://github.com/christian-munoz-rdz/christian-munoz-rdz/blob/main/res/yo.jpg)
 
 <h2> 👨🏻💻 About Me </h2>
 
