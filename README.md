@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Christian
+![ME]()
 
 <h2> 👨🏻💻 About Me </h2>
 
 👋 Welcome to my Github profile! I'm Christian, an enthusiastic computer science student at the University of Guadalajara. I'm driven by the rapid advancements in technology and the exciting future ahead, with a deep passion for AI, particularly in machine learning and deep learning. Let's connect and create a future where AI empowers us to revolutionize industries and transform lives! 🚀🔥🤖
- <hr>
 
 <h2>Skills 💪 </h2>
 
@@ -38,13 +37,12 @@
 
 <hr>
 
-<p align="center"><img alt="My Github Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=christian-munoz-rdzy&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchristian-munoz-rdz&layout=compact&theme=nord"></p>
+<p align="center"><img alt="My Github Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=christian-munoz-rdz&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-munoz-rdz&layout=compact&theme=nord"></p>
 
 <h2> 🤝🏻 Connect with Me </h2>
 <br>
 <p align="center">
-<a href="www.linkedin.com/in/christian-munoz-rdz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Muñoz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/christian-munoz-rdz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Muñoz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/stockfish098/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stockfish098-black?style=flat-square&logo=instagram"></a>
 <a href="mailto:christian.munoz.contacto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-christian.munoz.contacto@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<hr>
