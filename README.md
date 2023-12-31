@@ -12,12 +12,17 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-FF7A1D.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-14B1D1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FFCC33.svg?style=for-the-badge&logo=javascript&logoColor=white)
 <h3>🛠 Libraries</h3>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+<h3>🛠 Frameworks</h3>
+![PyQt](https://img.shields.io/badge/PyQt-%234FC08D.svg?style=for-the-badge&logo=PyQt5&logoColor=white)
 
 <h3>🛠 Tools</h3>
 
@@ -27,13 +32,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-<h3>🛠 To Learn</h3>
-
-![Tensorflow](https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Sklearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <hr>
 
