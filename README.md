@@ -21,8 +21,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<h3>🛠 Frameworks</h3>
-![PyQt](https://img.shields.io/badge/PyQt5-%234FC08D.svg?style=for-the-badge&logo=PyQt5&logoColor=white)
+<h3>🛠 Frameworks</h3> 
+- **PyQT**
 
 <h3>🛠 Tools</h3>
 
