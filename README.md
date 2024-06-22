@@ -2,43 +2,60 @@
 
 <h2> 👨🏻💻 About Me </h2>
 
-👋 Welcome to my Github profile! I'm Christian, an enthusiastic computer science student at the University of Guadalajara. I'm driven by the rapid advancements in technology and the exciting future ahead, with a deep passion for AI, particularly in machine learning and deep learning. Let's connect and create a future where AI empowers us to revolutionize industries and transform lives! 🚀🔥🤖
+👋 Welcome to my Github profile! I'm Christian, an enthusiastic computer science student at the University of Guadalajara. I'm driven by the rapid advancements in technology and the exciting future ahead, with a deep passion for AI, web and mobile development. Let's connect and create a future where technologies empowers us to revolutionize industries and transform lives! 🚀🔥🤖
 
-<h2>Skills 💪 </h2>
+<h2>Technologies & Tools 👨‍💻</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" height="50" alt="pyqt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplotlib logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" alt="netlify logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img src="https://avatars.githubusercontent.com/u/11646750?v=4" height="50" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="50" alt="photoshop logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="50" alt="lightroom logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" alt="premierepro logo"  />
+</div>
 
-<h3>🛠 Languages</h3>
+<h2>Stats 📊</h2>
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-FF7A1D.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-14B1D1.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-FFCC33.svg?style=for-the-badge&logo=javascript&logoColor=white)
-<h3>🛠 Libraries</h3>
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-<h3>🛠 Tools</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-
-<hr>
+[![trophy](https://github-profile-trophy.vercel.app/?username=christian-munoz-rdz&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"><img alt="My Github Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=christian-munoz-rdz&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-munoz-rdz&layout=compact&theme=nord"></p>
+  
+</div>
 
 <h2> 🤝🏻 Connect with Me </h2>
-<br>
-<p align="center">
-<a href="https://www.linkedin.com/in/christian-munoz-rdz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Muñoz-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/stockfish098/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-stockfish098-black?style=flat-square&logo=instagram"></a>
-<a href="mailto:christian.munoz.contacto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-christian.munoz.contacto@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<div align='left'>
+
+<a href="https://www.linkedin.com/in/christian-munoz-rdz/">
+    <img src="https://img.shields.io/static/v1?message=Christian Muñoz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
+</a>
+    <img src="https://img.shields.io/static/v1?message=christian.munoz.contacto@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="mailto:christian.munoz.contacto@gmail.com">
+<a href="https://www.instagram.com/stockfish098/">
+    <img src="https://img.shields.io/static/v1?message=@stockfish098&logo=instagram&label=&color=5272F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
+</a>
+
+</div>
