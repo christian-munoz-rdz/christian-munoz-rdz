@@ -51,9 +51,11 @@
 <a href="https://www.linkedin.com/in/christian-munoz-rdz/">
     <img src="https://img.shields.io/static/v1?message=Christian Muñoz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-</a>
-    <img src="https://img.shields.io/static/v1?message=christian.munoz.contacto@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
 <a href="mailto:christian.munoz.contacto@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=christian.munoz.contacto@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+
 <a href="https://www.instagram.com/stockfish098/">
     <img src="https://img.shields.io/static/v1?message=@stockfish098&logo=instagram&label=&color=5272F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
 </a>
