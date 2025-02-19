@@ -55,10 +55,6 @@ I'm a **front-end developer** passionate about **React, TypeScript, and UI desig
     <img src="https://img.shields.io/static/v1?message=christian.munoz.contacto@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
 
-<a href="https://www.instagram.com/stockfish098/">
-    <img src="https://img.shields.io/static/v1?message=@stockfish098&logo=instagram&label=&color=5272F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
-</a>
-
 </div>
 
 [comment]: <> (This is a comment, it will not be included)
